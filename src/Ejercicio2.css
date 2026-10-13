@@ -1,0 +1,19 @@
+.box {
+  border-radius: 6px;
+  padding: 18px;
+  box-sizing: border-box;
+}
+
+.comp1 { background-color: #4a90e2; color: #fff; max-width: 650px; margin: 0 auto; }
+.comp2 { background-color: #f5a623; color: #000; margin-top: 10px; }
+.comp3 { background-color: #2e7d32; color: #fff; margin-top: 10px; }
+.comp4 { background-color: #ffd600; color: #000; margin-top: 10px; }
+
+.user-card {
+  background: #ffffff;
+  color: #333;
+  padding: 14px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+  margin-top: 8px;
+}
